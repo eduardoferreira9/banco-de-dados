@@ -4,7 +4,7 @@ Postgree
 
 ## Índice
 - Exercícios Teams
-  * [Exercícios postados dentro do canal do Teams
+  * Exercícios postados dentro do canal do Teams
 
 - Listas prova
   * Exercícios postados para revisão da prova
