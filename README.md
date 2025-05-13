@@ -1,6 +1,6 @@
 # Lista de exercícios de banco de dados da faculdade
 
-Postgree
+Banco de dados ultilizado: Postgree
 
 ## Índice
 - Exercícios Teams
