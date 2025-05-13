@@ -11,6 +11,9 @@ CREATE TABLE funcionario(
 	FOREIGN KEY (id_departamento) REFERENCES departamento(id_departamento) ON DELETE RESTRICT
 );
 
+it config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
 -- Inserts
 INSERT INTO departamento(nome) VALUES
 ('Tecnologia da Informação');
